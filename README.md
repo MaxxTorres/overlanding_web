@@ -1,3 +1,3 @@
 **Website Demo**
 
-![overlanding_guide_web](https://github.com/user-attachments/assets/eea3c837-227f-4925-a6ed-8008d212f219)
+![overlanding_guide_web_demo](https://github.com/user-attachments/assets/61a00a48-eb69-4a27-9c9c-ee515be54d28)
